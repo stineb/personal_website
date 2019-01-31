@@ -93,5 +93,7 @@ interests = [
 
 +++
 
-I am a climate and environmental scientist with a special interest in interactions between global environmental change and terrestrial ecology and biogeochemistry. My work aims at providing data-informed predictions of how land ecosystems respond to a changing climate, increasing CO2 and changes in nutrient cycles. I’m developing numerical models, as simple as possible and as complex as necessary to learn the most. I’m motivated contribute to a better understanding of issues that are becoming increasingly pressing to society and policy and that are key to creating a sustainable future.  
+I am a climate and environmental scientist with a special interest in interactions between global environmental change and terrestrial ecology and biogeochemistry. My work aims at providing data-informed predictions of how land ecosystems respond to a changing climate, increasing CO2 and changes in nutrient cycles. I’m developing numerical models, as simple as possible and as complex as necessary to learn the most. 
+
+I’m motivated contribute to a better understanding of issues that are becoming increasingly pressing to society and policy and that are key to creating a sustainable future.  
 
