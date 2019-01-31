@@ -9,7 +9,7 @@ title = "Personal website"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = baseurl = "https://stineb.github.io/"
+baseurl = "https://stineb.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -25,8 +25,8 @@ disqusShortname = ""
 ## Advanced options below ##
 ############################
 
-# Name of Academic theme folder in `themes/`.
-theme = "academic"
+# Name of Academic theme folder in `themes/`. Available: "academic"
+theme = "hugo-coder"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
