@@ -10,7 +10,7 @@ title = "Featured Publications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 10
+weight = 2
 
 # List format.
 #   0 = Simple
