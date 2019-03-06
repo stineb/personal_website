@@ -9,7 +9,12 @@
   weight = 1
 
 [[main]]
-  name = "Projects"
+  name = "MIND project"
+  url = "/mind/"
+  weight = 2
+
+[[main]]
+  name = "Other projects"
   url = "#projects"
   weight = 2
 
