@@ -5,7 +5,7 @@ widgets = false  # Page type is a Widget Page.
 summary = "Website for my SNF Eccellenza project"  # Add a page description.
 +++
 
-## Next-generation **m**odelling of the biosphere – **I**ncluding **n**ew **d**ata streams and optimality approaches
+## Next-generation modelling of the biosphere – Including new data streams and optimality approaches
 
 My 5-year *Eccellenza* Professorial Fellowship, funded by the Swiss National Science Foundation
 
@@ -73,7 +73,7 @@ Research will address three key questions:
 
 ![](/img/mind_scales_nutrients.png)
 
-We will use the Global Change Manipulation Experiments database (under development, collaboration with Dr. Sara Vicca, PLECO, University of Antwerp) and explore the observational constraints on alternative model formulations for simulating coupled carbon and nitrogen dynamics in terrestrial ecoystems. This work will make important important advances on several fronts: Generating fundamental insights into ecosystem dynamics and biogeochemical cycles, exploring new territory in model-data fusion on the basis of observations from manipulation experiments, and developing a reusable and scalable model testbed as the basis of future community-driven model intercomparisons.
+We will use the Global Change Manipulation Experiments database (under development, collaboration with [Dr. Sara Vicca, PLECO, University of Antwerp](https://www.uantwerpen.be/en/staff/sara-vicca/)) and explore the observational constraints on alternative model formulations for simulating coupled carbon and nitrogen dynamics in terrestrial ecoystems. This work will make important important advances on several fronts: Generating fundamental insights into ecosystem dynamics and biogeochemical cycles, exploring new territory in model-data fusion on the basis of observations from manipulation experiments, and developing a reusable and scalable model testbed as the basis of future community-driven model intercomparisons.
 
 
 ### PhD 2: Water-carbon coupling
@@ -84,7 +84,7 @@ The following key questions will be addressed:
 - How can we simulate stomatal and biochemical limitations on photosynthesis during droughts?
 - What is the apparent rooting zone water capacity and how is it controlled by climate and groundwater depth?
 
-We will use data from ecosystem flux measurements and remotely sensed green vegetation cover to constrain new modelling approaches that are funded in ecohydrology and plant hydraulics. Research will lay the foundations for extending current-generation vegetation models beyond simulating the water balance in the topsoil: groundwater access and a varying rooting depth across climatic gradients are a key target for our predictions and are important quantities for understanding carbon-water couplings in the Earth system.
+We will use data from ecosystem flux measurements and remotely sensed green vegetation cover to constrain new modelling approaches that are funded in ecohydrology and plant hydraulics. Research will lay the foundations for extending current-generation vegetation models beyond simulating the water balance in the topsoil: groundwater access and a varying rooting depth across climatic gradients are a key target for our predictions and are important quantities for understanding carbon-water couplings in the Earth system. For this research line, we will collaborate with [Prof. Stan Schymanski (LIST, Luxembourg)](https://www.list.lu/en/news/list-welcomes-fnr-attract-fellow-stan-schymanski/).
 
 ### Postdoc: Scaling from trees to the forest
 
@@ -103,6 +103,8 @@ How does climate change alter forest dynamics and what are implications for the 
 ... is a serios challenge (German for *Not seeing the wood for the trees*). Our research will find new solutions with a new generation of models and statistical approaches to keep the overview and distill the fundamental mechanisms. 
 
 Forest inventories and other (typically individual-based) forest datasets hold an enormous amount of information. However, the connection from observable quantities to insights into tree-level processes and how these affect forest dynamics is difficult to make when relying on common statistical approaches. A new generation of Vegetation Demography Models connect a mechanistic resolution of photosynthesis, respiration, growth, and resource limitations with explicit age-structured forest dynamics. This opens new possibilities for combining data with our process-understanding in a Bayesian statistical approach - an opportunity that MIND will make use of.
+
+For this research, we will use the LM3-PPA Vegetation Demography Model, in collaboration with [Dr. Ensheng Weng (NASA GISS)](https://www.giss.nasa.gov/staff/eweng.html).
 
 
 
