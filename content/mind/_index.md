@@ -73,7 +73,7 @@ Research will address three key questions:
 
 ![](/img/mind_scales_nutrients.png)
 
-We will use the Global Change Manipulation Experiments database (under development, collaboration with [Dr. Sara Vicca, PLECO, University of Antwerp](https://www.uantwerpen.be/en/staff/sara-vicca/)) and explore the observational constraints on alternative model formulations for simulating coupled carbon and nitrogen dynamics in terrestrial ecoystems. This work will make important important advances on several fronts: Generating fundamental insights into ecosystem dynamics and biogeochemical cycles, exploring new territory in model-data fusion on the basis of observations from manipulation experiments, and developing a reusable and scalable model testbed as the basis of future community-driven model intercomparisons.
+We will use the Global Change Manipulation Experiments database (under development, collaboration with [Dr. Sara Vicca, PLECO, University of Antwerp](https://www.uantwerpen.be/en/staff/sara-vicca/)) and explore the observational constraints on alternative model formulations for simulating coupled carbon and nitrogen dynamics in terrestrial ecoystems. This work will make important advances on several fronts: Generating fundamental insights into ecosystem dynamics and biogeochemical cycles, exploring new territory in model-data fusion on the basis of observations from manipulation experiments, and developing a reusable and scalable model testbed as the basis of future community-driven model intercomparisons.
 
 
 ### PhD 2: Water-carbon coupling
