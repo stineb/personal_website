@@ -57,7 +57,7 @@ This is seems to be at odds with a recent study by [Humphrey et al. (2018)](http
 ## Further links
 
 - A [blogpost](/post/soilm_global/) written for [*Nature Ecology and Evolution - Behind the Paper*](https://natureecoevocommunity.nature.com/channels/521-behind-the-paper).
-- A [press release](/static/files/pressrelease_soilm_global.pdf) written in collaboration with Natalie Sanders, Imperial College
+- A [press release](/files/pressrelease_soilm_global.pdf) written in collaboration with Natalie Sanders, Imperial College
 
 ## Data and code
 
