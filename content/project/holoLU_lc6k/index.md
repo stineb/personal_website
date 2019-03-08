@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Multi-model simulations using updated Landcover6K-preindustrial land use change scenarios to assess impacts on climate and the carbon cycle."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
