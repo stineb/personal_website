@@ -9,11 +9,19 @@ summary = "Website for my SNF Eccellenza project"  # Add a page description.
 
 My 5-year *Eccellenza* Professorial Fellowship, funded by the Swiss National Science Foundation
 
-Professorship for Computational Ecosystem Science, co-hosted at the [Institute of Agricultural Sciences, ETH Zürich](http://www.ias.ethz.ch/) and [Forest Dynamics, WSL Birmensdorf](https://www.wsl.ch/en/about-wsl/research-units/forest-dynamics.html)
+<!-- Professorship for Computational Ecosystem Science, co-hosted at the [Institute of Agricultural Sciences, ETH Zürich](http://www.ias.ethz.ch/) and [Forest Dynamics, WSL Birmensdorf](https://www.wsl.ch/en/about-wsl/research-units/forest-dynamics.html)
+ -->
+
+Co-hosted at the [Institute of Agricultural Sciences, ETH Zürich](http://www.ias.ethz.ch/) and [Forest Dynamics, WSL Birmensdorf](https://www.wsl.ch/en/about-wsl/research-units/forest-dynamics.html)
 
 Starting September 2019
 
-The overarching aim of MIND and the new ETH/WSL Group for Computational Ecosystem Science is to develop new model and data fusion approaches to gain a mechanistic understanding of biogeochemical cycling in ecosystems, water-carbon coupling, and forest responses to climate change. We work at the intersection of Earth system science, ecophysiology, ecology, applied statistics, and high-performance computing and use the widest possible diversity of observational data.
+<!-- The overarching aim of MIND and the new ETH/WSL Group for Computational Ecosystem Science is to develop new model and data fusion approaches to gain a mechanistic understanding of biogeochemical cycling in ecosystems, water-carbon coupling, and forest responses to climate change. We work at the intersection of Earth system science, ecophysiology, ecology, applied statistics, and high-performance computing and use the widest possible diversity of observational data.
+ -->
+
+The overarching aim of MIND is to develop new model and data fusion approaches to gain a mechanistic understanding of biogeochemical cycling in ecosystems, water-carbon coupling, and forest responses to climate change. We work at the intersection of Earth system science, ecophysiology, ecology, applied statistics, and high-performance computing and use the widest possible diversity of observational data.
+
+A postdoc position to work with me on this project (see below 'Postdoc: Scaling from trees to the forest') is open now. A link to the ad and application is [here](https://apply.refline.ch/845721/7239/pub/1/index.html). 
 
 <!-- ![MIND Eccellenza across scales](/img/dreamstime_m_76702519_verysmall.jpg) -->
 
@@ -84,7 +92,7 @@ The following key questions will be addressed:
 - How can we simulate stomatal and biochemical limitations on photosynthesis during droughts?
 - What is the apparent rooting zone water capacity and how is it controlled by climate and groundwater depth?
 
-We will use data from ecosystem flux measurements and remotely sensed green vegetation cover to constrain new modelling approaches that are funded in ecohydrology and plant hydraulics. Research will lay the foundations for extending current-generation vegetation models beyond simulating the water balance in the topsoil: groundwater access and a varying rooting depth across climatic gradients are a key target for our predictions and are important quantities for understanding carbon-water couplings in the Earth system. For this research line, we will collaborate with [Prof. Stan Schymanski (LIST, Luxembourg)](https://www.list.lu/en/news/list-welcomes-fnr-attract-fellow-stan-schymanski/).
+We will use data from ecosystem flux measurements and remotely sensed green vegetation cover to constrain new modelling approaches that are funded in ecohydrology and plant hydraulics. Research will lay the foundations for extending current-generation vegetation models beyond simulating the water balance in the topsoil: groundwater access and a varying rooting depth across climatic gradients are a key target for our predictions and are important quantities for understanding carbon-water couplings in the Earth system. For this research line, we will collaborate with [Stan Schymanski (LIST, Luxembourg)](https://www.list.lu/en/research/project/wave/).
 
 ### Postdoc: Scaling from trees to the forest
 

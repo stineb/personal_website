@@ -23,7 +23,7 @@ list_format = 2
 exclude_featured = false
 +++
 
+* **Postdoc position in Computational Ecosystem Science open. Apply [here](https://apply.refline.ch/845721/7239/pub/1/index.html).**
+* It's official: I'm going to be Assistant Professor and we'll start a new group for Computational Ecosystem Science at ETH in September 2019. More info about the project [here](/mind/).
 * New paper on carbon-water coupling across scales published in *Nature Geoscience*. More info [here](/project/soilm_global/).
-* I got my project MIND funded by the Swiss National Science Foundation with an Eccellenza grant. This means I'll be starting as an Assistant Prof. at ETH Zürich and WSL in September this year. I'm looking for a Postdoc to start around September too, and two Ph.D. students a year later. More info [here](/mind/).
-* Come see our session at EGU 2019: [Session BG2.15: Terrestrial ecosystem responses to global change: integrating experiments and models to understand carbon, nutrient, and water cycling](https://meetingorganizer.copernicus.org/EGU2019/session/32161).
-* Planned visiting researcher stay in [Prof. Rob Jackson's Lab](https://jacksonlab.stanford.edu/) at Stanford, US. starting in April 2019.
+* I am currently a visiting scholar in [Prof. Rob Jackson's Lab](https://jacksonlab.stanford.edu/) at Stanford, US, trying to solve the question: *How much water do trees have access to?*
