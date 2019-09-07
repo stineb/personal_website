@@ -6,17 +6,17 @@ name = "Beni Stocker"
 superuser = true
 
 # Role/position
-role = "Postdoc"
+role = "Assistant Prof."
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University (visiting)  |  ETH Zürich (from Sep. 2019)", url = "http://www.creaf.cat/staff/benjamin-stocker" } ]
+organizations = [ { name = "Computational Ecosystem Science, ETH Zürich", url = "http://www.creaf.cat/staff/benjamin-stocker" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Heliocentrist human being."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "b.stocker@creaf.uab.cat"
+email = "bestocke@ethz.ch"
 
 # List (academic) interests or hobbies
 interests = [
