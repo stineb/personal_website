@@ -51,9 +51,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "benjamin.stocker@gmail.com"
-#phone = "NA"
-address = "CREAF, Campus UAB, Edifici C, 08193 Bellaterra, España"
+email = "bestocke@ethz.ch"
+phone = "+41 44 632 48 90"
+address = "LFW C 55.3, Universitätstrasse 2, 8092 Zürich, Switzerland"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
@@ -67,7 +67,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "@SteniBocker", link = "https://twitter.com/SteniBocker"},
-  {icon = "skype", icon_pack = "fab", name = "stjneb", link = "skype:echo123?call"},
+  # {icon = "skype", icon_pack = "fab", name = "stjneb", link = "skype:+?call"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 

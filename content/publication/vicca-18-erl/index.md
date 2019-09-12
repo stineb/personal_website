@@ -7,6 +7,5 @@ abstract = "Abstract A wide range of research shows that nutrient availability s
 selected = false
 publication = "*Environmental Research Letters*"
 url_pdf = "http://iopscience.iop.org/10.1088/1748-9326/aaeae7"
-featured = false
 +++
 
