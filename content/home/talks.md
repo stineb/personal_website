@@ -23,6 +23,6 @@ list_format = 2
 exclude_featured = false
 +++
 
-* **PhD position in Computational Ecosystem Science open. Apply [here](https://jobs.ethz.ch/job/view/JOPG_ethz_piDfM5soCPvvvWLW3w). More info [here](/mind/)**
+* MSc project in Computational Ecosystem Science available. More info [here](/project/photocold/).
 * I have started my new role as Assistant Professor for Computational Ecosystem Science at ETH in September 2019. More info about the project [here](/mind/).
 * New paper on carbon-water coupling across scales published in *Nature Geoscience*. More info [here](/project/soilm_global/).
