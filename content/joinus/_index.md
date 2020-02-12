@@ -9,7 +9,10 @@ summary = "Website for my SNF Eccellenza project"  # Add a page description.
 
 Currently available MSc projects:
 
-- [Cold acclimation effects on photosynthesis](/project/photocold/). Advertised also through ETH's system [here](https://www.intranet.usys.ethz.ch/UMNW/master-arbeiten).
+- [Cold acclimation effects on photosynthesis](/project/photocold/)
+- [New constraints on terrestrial photosynthesis](/project/terrphoto/)
+
+All MSc theses are advertised also through ETH's system [here](https://www.intranet.usys.ethz.ch/UMNW/master-arbeiten).
 
 Currently available PhD projects:
 
