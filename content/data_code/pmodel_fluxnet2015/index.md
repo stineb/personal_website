@@ -1,14 +1,14 @@
 +++
-title = "SOFUN"
-date = 2019-01-31T19:19:29+01:00
+title = "P-model outputs for FLUXNET sites"
+date = 2019-01-31T19:19:32+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["R"]
 
 # Project summary to display on homepage.
-summary = "A flexible modular framework to simulate terrestrial processes"
+summary = "Environmental data ingest into R"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -17,9 +17,6 @@ summary = "A flexible modular framework to simulate terrestrial processes"
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
-
-# Optional external URL for project (replaces project detail page).
-external_link = "https://stineb.github.io/sofun/"
 
 # Links (optional).
 url_pdf = ""
@@ -42,4 +39,13 @@ url_poster = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
+# Code syntax highlighting
+highlight = true
+math = true
 +++
+
+Gross primary production, simulated by the P-model for each FLUXNET 2015 Tier 1 site. 
+
+Data can be obtained [here](https://zenodo.org/record/3559850#.XsU7tpMzbOQ).
+Please cite [Stocker et al., 2020](https://www.geosci-model-dev.net/13/1545/2020/).

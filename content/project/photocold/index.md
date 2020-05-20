@@ -1,5 +1,5 @@
 +++
-title = "MSc thesis: Cold acclimation effects on photosynthesis"
+title = "Cold acclimation effects on photosynthesis"
 date = 2020-01-31T11:36:26+01:00
 draft = false
 

@@ -1,14 +1,14 @@
 +++
-title = "SOFUN"
-date = 2019-01-31T19:19:29+01:00
+title = "ingestr"
+date = 2019-01-31T19:19:32+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["R"]
 
 # Project summary to display on homepage.
-summary = "A flexible modular framework to simulate terrestrial processes"
+summary = "Environmental data ingest into R"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -19,11 +19,11 @@ summary = "A flexible modular framework to simulate terrestrial processes"
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://stineb.github.io/sofun/"
+external_link = "https://stineb.github.io/ingestr/"
 
 # Links (optional).
 url_pdf = ""
-url_code = ""
+url_code = "https://github.com/stineb/ingestr"
 url_dataset = ""
 url_slides = ""
 url_video = ""
@@ -42,4 +42,9 @@ url_poster = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
+# Code syntax highlighting
+highlight = true
+math = true
 +++
+

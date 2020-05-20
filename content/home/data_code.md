@@ -1,39 +1,51 @@
 +++
-# Recent Publications widget.
-# This widget displays recent publications from `content/data_code/`.
-widget = "publications"
+# Projects widget.
+widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
 title = "Data and code"
-subtitle = ""
+subtitle = "More on [Zenodo](https://zenodo.org/deposit?page=1&size=20)"
 
 # Order that this section will appear in.
 weight = 6
 
-# Number of publications to list.
-count = 3
+# Content.
+# Display content from the following folder.
+# For example, `folder = "project"` displays content from `content/project/`.
+folder = "data_code"
 
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = APA
-#   3 = MLA
-#   4 = Stream
-list_format = 4
+# View.
+# Customize how projects are displayed.
+# Legend: 0 = list, 1 = cards, 2 = showcase.
+view = 1
 
-# Filter by publication type.
-# -1: Any
-#  0: Uncategorized
-#  1: Conference proceedings
-#  2: Journal
-#  3: Work in progress
-#  4: Technical report
-#  5: Book
-#  6: Book chapter
-publication_type = "0"
+# Widget layout
+# Legend: 0 = two columns (default), 1 = single column
+widget_layout = 0
 
-# Exclude publications that are shown in the Featured Publications widget?
-exclude_featured = false
+# For Showcase view, flip alternate rows?
+flip_alt_rows = false
+
+# Filter toolbar.
+
+# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
+filter_default = 0
+
+# Add or remove as many filters (`[[filter]]` instances) as you like.
+# To show all items, set `tag` to "*".
+# To filter by a specific tag, set `tag` to an existing tag name.
+# To remove toolbar, delete/comment all instances of `[[filter]]` below.
+# [[filter]]
+#   name = "All"
+#   tag = "*"
+#
+# [[filter]]
+#   name = "Deep Learning"
+#   tag = "Deep Learning"
+#
+# [[filter]]
+#   name = "Other"
+#   tag = "Demo"
 +++
 

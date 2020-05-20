@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Beni Stocker"
+name = "Benjamin Stocker"
 
 # Is this the primary user of the site?
 superuser = true
@@ -10,7 +10,7 @@ role = "Assistant Prof."
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Computational Ecosystem Science, ETH Zürich", url = "http://www.creaf.cat/staff/benjamin-stocker" } ]
+organizations = [ { name = "Computational Ecosystem Science, ETH Zürich", url = "https://usys.ethz.ch/en/people/profile.MTUxNjQ5.TGlzdC8yODUyLDMyMDE5NzIyMg==.html" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Heliocentrist human being."
