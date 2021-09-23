@@ -8,3 +8,6 @@ cd ../../
 
 # Update Academic.
 git submodule update --remote --merge
+
+# Initialised submodule after pulling the personal_website repository
+# git submodule update --init --recursive
